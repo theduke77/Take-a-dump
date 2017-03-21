@@ -17,6 +17,7 @@ Download from the github link
 Place the dump folder in your custom folder. If you dont have one, create one.
 
 I have it set on the GPS for the right click. Some have changed it to toilet paper, which seems appropriate, but you need to carry an extra item for that :)
+
 Open your extra_rc.hpp
 
 add this
